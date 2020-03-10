@@ -1,4 +1,4 @@
 # 15-Puzzle-Solver
-![](15psolver.PNG)
+![](15psolver.png)
 
-![](15psolver2.PNG)
+![](15psolver2.png)
